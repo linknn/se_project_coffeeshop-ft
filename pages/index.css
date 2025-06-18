@@ -134,7 +134,7 @@
   line-height: 30px;
 }
 
-.recipes__video_container {
+.recipes__videos-container {
   margin-bottom: 215px;
   position: relative;
 }
@@ -153,13 +153,13 @@
   border: 0px;
 }
 
-.recipes__videos_captions {
+.recipes__videos-captions {
   margin-top: 24px;
   display: flex;
   justify-content: space-between;
 }
 
-.recipes__video_caption {
+.recipes__videos-caption {
   font-family: "Inter", Arial, Helvetica, sans-serif;
   font-style: normal;
   font-weight: 500;
