@@ -173,6 +173,18 @@
 }
 
 .reservation {
+  background-image: url("../images/background_reservation.svg");
+  background-color: #d9e7ff;
+  color: #000;
+  margin: 0;
+}
+
+.reservation__title {
+  margin: 0;
+}
+
+.reservation__form {
+  max-width: 385px;
 }
 
 .footer {
