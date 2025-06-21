@@ -1,0 +1,11 @@
+.menu {
+  background-color: #fff;
+  background-image: url("../images/background_menu.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: center;
+}
+
+.card__list-item {
+  list-style-type: none;
+}
