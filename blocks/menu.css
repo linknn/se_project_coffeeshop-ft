@@ -6,6 +6,17 @@
   background-size: center;
 }
 
+.card {
+  list-style-type: none;
+}
+
+.card__list {
+}
+
 .card__list-item {
   list-style-type: none;
+}
+
+.card__list-divider {
+  border-bottom: 1px;
 }
