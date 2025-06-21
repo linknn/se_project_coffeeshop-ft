@@ -256,6 +256,29 @@
 .form__input_checkbox {
   width: 20px;
   height: 20px;
+  margin: 0;
+}
+
+.menu {
+  background-color: #fff;
+  background-image: url("../images/background_menu.svg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-size: center;
+}
+
+.card__list-item {
+  list-style-type: none;
+}
+
+.about {
+  background-color: #0a2850;
+}
+
+.about__title {
+  max-width: 251px;
+  left: 80px;
+  margin-top: 100px;
 }
 
 .footer {
