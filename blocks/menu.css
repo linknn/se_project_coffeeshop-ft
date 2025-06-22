@@ -4,19 +4,32 @@
   background-size: cover;
   background-repeat: no-repeat;
   background-size: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 100px;
 }
 
-.card {
+.menu__title {
+  max-width: 780px;
+  text-align: center;
+  margin: 0 0 24px;
+  padding: 0;
+}
+
+.menu__subtitle {
+  max-width: 780px;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+
+.menu__cards {
+  margin: 100px 0;
+  padding: 0;
   list-style-type: none;
-}
-
-.card__list {
-}
-
-.card__list-item {
-  list-style-type: none;
-}
-
-.card__list-divider {
-  border-bottom: 1px;
+  gap: 100px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
 }
