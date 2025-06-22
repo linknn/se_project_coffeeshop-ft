@@ -44,6 +44,7 @@
   border-radius: 4px;
   background-color: #1878dc;
   border: none;
+  transition: background-color 0.5s ease-in-out;
 }
 
 .form__button:hover {
